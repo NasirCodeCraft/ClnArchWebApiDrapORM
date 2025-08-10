@@ -1,0 +1,6 @@
+@ClnArchDrapORM.API_HostAddress = http://localhost:5254
+
+GET {{ClnArchDrapORM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

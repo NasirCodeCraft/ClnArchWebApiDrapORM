@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClnArchDrapORM.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51816087c150f129723516faa4bde4c9f482305")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f69c3c0269c665a792f7c312ab48566a995c9d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClnArchDrapORM.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClnArchDrapORM.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\bin\Debug\net8.0\ClnArchDrapORM.Persistence.deps.json
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\bin\Debug\net8.0\ClnArchDrapORM.Persistence.dll
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\bin\Debug\net8.0\ClnArchDrapORM.Persistence.pdb
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.AssemblyInfoInputs.cache
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.AssemblyInfo.cs
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.csproj.CoreCompileInputs.cache
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.sourcelink.json
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.dll
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\refint\ClnArchDrapORM.Persistence.dll
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ClnArchDrapORM.Persistence.pdb
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Persistence\obj\Debug\net8.0\ref\ClnArchDrapORM.Persistence.dll

@@ -1,0 +1,12 @@
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\bin\Debug\net8.0\ClnArchDrapORM.Application.deps.json
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\bin\Debug\net8.0\ClnArchDrapORM.Application.dll
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\bin\Debug\net8.0\ClnArchDrapORM.Application.pdb
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.AssemblyInfoInputs.cache
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.AssemblyInfo.cs
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.csproj.CoreCompileInputs.cache
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.sourcelink.json
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.dll
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\refint\ClnArchDrapORM.Application.dll
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.pdb
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ref\ClnArchDrapORM.Application.dll

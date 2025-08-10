@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ClnArchDrapORM.API.props" />
+</Project>

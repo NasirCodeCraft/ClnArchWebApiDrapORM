@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClnArchDrapORM.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f69c3c0269c665a792f7c312ab48566a995c9d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+123f38ab3c79b2e7ec312c4c6292634150d5b9ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClnArchDrapORM.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClnArchDrapORM.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

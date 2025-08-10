@@ -1,0 +1,5 @@
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.AssemblyInfoInputs.cache
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.AssemblyInfo.cs
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.csproj.CoreCompileInputs.cache
+F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.sourcelink.json

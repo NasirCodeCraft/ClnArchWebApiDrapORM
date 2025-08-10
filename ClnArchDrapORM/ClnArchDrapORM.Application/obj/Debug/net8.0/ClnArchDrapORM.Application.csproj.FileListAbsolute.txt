@@ -10,3 +10,15 @@ F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\
 F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\refint\ClnArchDrapORM.Application.dll
 F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.pdb
 F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ref\ClnArchDrapORM.Application.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\bin\Debug\net8.0\ClnArchDrapORM.Application.deps.json
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\bin\Debug\net8.0\ClnArchDrapORM.Application.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\bin\Debug\net8.0\ClnArchDrapORM.Application.pdb
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.AssemblyInfoInputs.cache
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.AssemblyInfo.cs
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.csproj.CoreCompileInputs.cache
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.sourcelink.json
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\refint\ClnArchDrapORM.Application.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ClnArchDrapORM.Application.pdb
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Application\obj\Debug\net8.0\ref\ClnArchDrapORM.Application.dll

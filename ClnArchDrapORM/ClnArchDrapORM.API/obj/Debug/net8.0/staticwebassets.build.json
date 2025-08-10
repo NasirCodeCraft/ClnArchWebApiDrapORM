@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "pivhCJTej7HjAQcf3qLxrQ5Int14I7g9I1XPEKvhLIM=",
-  "Source": "ClnArchDrapORM.API",
-  "BasePath": "_content/ClnArchDrapORM.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"VWGTuRPFgwtQTyc3PKE8anOmWYMPSW1JLTPhtEOKMIY=","Source":"ClnArchDrapORM.API","BasePath":"_content/ClnArchDrapORM.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

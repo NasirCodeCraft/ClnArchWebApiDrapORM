@@ -3,3 +3,15 @@ F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\D
 F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.AssemblyInfo.cs
 F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.csproj.CoreCompileInputs.cache
 F:\Destop\DOTNET\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.sourcelink.json
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\bin\Debug\net8.0\ClnArchDrapORM.Domain.deps.json
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\bin\Debug\net8.0\ClnArchDrapORM.Domain.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\bin\Debug\net8.0\ClnArchDrapORM.Domain.pdb
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.AssemblyInfoInputs.cache
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.AssemblyInfo.cs
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.csproj.CoreCompileInputs.cache
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.sourcelink.json
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\refint\ClnArchDrapORM.Domain.dll
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ClnArchDrapORM.Domain.pdb
+D:\DotNet\CleanArchitecture\ClnArchWebApiDrapORM\ClnArchDrapORM\ClnArchDrapORM.Domain\obj\Debug\net8.0\ref\ClnArchDrapORM.Domain.dll

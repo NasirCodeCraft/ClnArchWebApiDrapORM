@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.35201.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClnArchDrapORM.Domain", "ClnArchDrapORM.Domain\ClnArchDrapORM.Domain.csproj", "{D4586647-A3DA-4966-9F8A-42D437829F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnArchDrapORM.Application", "ClnArchDrapORM.Application\ClnArchDrapORM.Application.csproj", "{B7AC51A6-035D-4866-BB17-65664E3ABDD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClnArchDrapORM.Application", "ClnArchDrapORM.Application\ClnArchDrapORM.Application.csproj", "{B7AC51A6-035D-4866-BB17-65664E3ABDD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnArchDrapORM.Infrastructure", "ClnArchDrapORM.Infrastructure\ClnArchDrapORM.Infrastructure.csproj", "{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B7AC51A6-035D-4866-BB17-65664E3ABDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7AC51A6-035D-4866-BB17-65664E3ABDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7AC51A6-035D-4866-BB17-65664E3ABDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClnArchDrapORM.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+501165ab8fff58c8bdf4a991f1e3994391e0a53b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51816087c150f129723516faa4bde4c9f482305")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClnArchDrapORM.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClnArchDrapORM.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

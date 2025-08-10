@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClnArchDrapORM.Domain", "Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClnArchDrapORM.Application", "ClnArchDrapORM.Application\ClnArchDrapORM.Application.csproj", "{B7AC51A6-035D-4866-BB17-65664E3ABDD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnArchDrapORM.Infrastructure", "ClnArchDrapORM.Infrastructure\ClnArchDrapORM.Infrastructure.csproj", "{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClnArchDrapORM.Infrastructure", "ClnArchDrapORM.Infrastructure\ClnArchDrapORM.Infrastructure.csproj", "{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnArchDrapORM.Persistence", "ClnArchDrapORM.Persistence\ClnArchDrapORM.Persistence.csproj", "{6FA0A745-0384-4DAB-9271-131ECA909453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28DE2675-9D2F-45C8-A32C-4C40D11A17E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA0A745-0384-4DAB-9271-131ECA909453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA0A745-0384-4DAB-9271-131ECA909453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA0A745-0384-4DAB-9271-131ECA909453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA0A745-0384-4DAB-9271-131ECA909453}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

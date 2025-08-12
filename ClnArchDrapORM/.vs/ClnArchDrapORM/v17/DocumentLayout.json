@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA0A745-0384-4DAB-9271-131ECA909453}|ClnArchDrapORM.Persistence\\ClnArchDrapORM.Persistence.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA0A745-0384-4DAB-9271-131ECA909453}|ClnArchDrapORM.Persistence\\ClnArchDrapORM.Persistence.csproj|solutionrelative:clnarchdraporm.persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F68CC54-2FFC-401F-9DCF-3D2804BCAC70}|ClnArchDrapORM.API\\ClnArchDrapORM.API.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F68CC54-2FFC-401F-9DCF-3D2804BCAC70}|ClnArchDrapORM.API\\ClnArchDrapORM.API.csproj|solutionrelative:clnarchdraporm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA0A745-0384-4DAB-9271-131ECA909453}|ClnArchDrapORM.Persistence\\ClnArchDrapORM.Persistence.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA0A745-0384-4DAB-9271-131ECA909453}|ClnArchDrapORM.Persistence\\ClnArchDrapORM.Persistence.csproj|solutionrelative:clnarchdraporm.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F68CC54-2FFC-401F-9DCF-3D2804BCAC70}|ClnArchDrapORM.API\\ClnArchDrapORM.API.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F68CC54-2FFC-401F-9DCF-3D2804BCAC70}|ClnArchDrapORM.API\\ClnArchDrapORM.API.csproj|solutionrelative:clnarchdraporm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|solutionrelative:clnarchdraporm.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA0A745-0384-4DAB-9271-131ECA909453}|ClnArchDrapORM.Persistence\\ClnArchDrapORM.Persistence.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA0A745-0384-4DAB-9271-131ECA909453}|ClnArchDrapORM.Persistence\\ClnArchDrapORM.Persistence.csproj|solutionrelative:clnarchdraporm.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|solutionrelative:clnarchdraporm.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|solutionrelative:clnarchdraporm.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|d:\\dotnet\\cleanarchitecture\\clnarchwebapidraporm\\clnarchdraporm\\clnarchdraporm.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AC51A6-035D-4866-BB17-65664E3ABDD3}|ClnArchDrapORM.Application\\ClnArchDrapORM.Application.csproj|solutionrelative:clnarchdraporm.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.API\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.API\\appsettings.json",
+              "RelativeToolTip": "ClnArchDrapORM.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T16:42:56.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.API\\Program.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.API\\Program.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.API\\Program.cs",
+              "RelativeToolTip": "ClnArchDrapORM.API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:41:42.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:22:14.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Persistence\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Persistence\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:21:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:45:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Application\\DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Application\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:13:00.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:10:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:08:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ClnArchDrapORM.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\DotNet\\CleanArchitecture\\ClnArchWebApiDrapORM\\ClnArchDrapORM\\ClnArchDrapORM.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ClnArchDrapORM.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:05:26.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
